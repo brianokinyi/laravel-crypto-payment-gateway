@@ -29,7 +29,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^8.1",
         "illuminate/support": "v8.0.0",
         "tecnickcom/tc-lib-barcode": "^1.15"
     },
